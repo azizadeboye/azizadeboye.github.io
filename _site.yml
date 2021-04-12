@@ -7,7 +7,7 @@ output:
     lib_dir: site_libs
     self_contained: no
 navbar:
-  title: Azeez N. Adeboye
+  title: Azeez Adeboye
   left:
   - text: About
     href: index.html
