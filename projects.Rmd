@@ -32,7 +32,7 @@ I **characterized the tissue tropism, disease, viremia, and protective immunity 
 
 # Data science 
 
-Learning Bayesian analysis with R-INLA: [code for the homework exercises from the 2nd edition of Statistical Rethinking by Richard McElreath using R-INLA](https://akawiecki.github.io./statistical_rethinking_inla/)
+Learning Bayesian analysis with R-INLA: [code for the homework exercises from the 2nd edition of Statistical Rethinking by Richard McElreath using R-INLA](https://azizadeboye.github.io./statistical_rethinking_inla/)
 
 
 
