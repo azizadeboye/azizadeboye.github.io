@@ -1,6 +1,6 @@
 ---
 title: "Azeez CV"
-author: "Azeez N. Adeboye"
+author: "Azeez Adeboye"
 email: azizadeboye@gmail.com
 output:
   html_document:
