@@ -1,7 +1,7 @@
 ---
-title: "Anna Kawiecki CV"
-author: "Anna B. Kawiecki"
-email: akawiecki@ucdavis.edu
+title: "Azeez CV"
+author: "Azeez N. Adeboye"
+email: azizadeboye@gmail.com
 output:
   html_document:
     df_print: paged
@@ -12,13 +12,13 @@ fontfamily: mathpazo
 #fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
-github: akawiecki
-jobtitle: PhD Epidemiology (expected 2022), UC Davis
+github: azizadeboye
+jobtitle: PhD Biostatistics, University of Fort Hare
 linkcolor: blue
-orcid: null
+orcid: https://orcid.org/0000-0001-9427-7374
 fontawesome: yes
-phone: "+1 (530) 760-7123"
-address: 
+phone: "+27739243581"
+address: 34, Ring Road, University of Fort Hare, Alice
 #updated: no
 urlcolor: blue
 ---
@@ -29,166 +29,130 @@ library(fontawesome)
 ```
 
 ##### SUMMARY OF PROFESSIONAL EXPERIENCE
-I am a veterinarian training as a research epidemiologist with a focus on vector-borne diseases with a background that encompasses clinical, molecular and quantitative experience. I have extensive experience in conducting field work and managing data in large field-based research operations, performing molecular diagnostic work with arboviruses in both BSL-2 and BSL-3 conditions and with mosquito colony maintenance. Currently I am investigating arbovirus transmission dynamics by building statistical, mathematical and spatio-temporal models.
+I am a statistician training as a research biostatistician with a focus on computational modeling of diseases with a background that encompasses clinical, molecular and quantitative experience. I have extensive experience in conducting field work and managing data in large field-based research operations, performing algorithmitic computations and model development in communicable and non-communicable diseases. Currently I am working on tuberculosis transmission dynamics by building statistical, mathematical and spatio-temporal models.
 
 ***  
 
 ## EDUCATION
 
-University of California, Davis, **Ph.D. Epidemiology**  \hfill expected 2022
+University of Fort Hare, Alice, **Ph.D. Biostatistics**  \hfill 2020
 
- \hfill Davis, California
+ \hfill Alice, South Africa
 
-Louisiana State University, **M.Sc. Master in Veterinary and Biomedical  Sciences** \hfill 2017 
+University of Fort Hare, Alice, **M.Sc. Master in Biostatistics & Epidemiology** \hfill 2017 
 
-\hfill Baton Rouge, Louisiana  
+\hfill Alice, South Africa  
 
-Universidad Complutense de Madrid, **D.V.M** \hfill 2013 
+University of Fort Hare, Alice, **B.Sc (Honours) in Applied Statistics** \hfill 2015 
 
-\hfill Madrid, Spain 
+\hfill Alice, South Africa 
+
+Yaba College of Technology, Lagos, **Advanced Diploma (HND) in Applied Statistics** \hfill 2008 
+
+\hfill Lagos, Nigeria
 
  ***    
 
 ## EMPLOYMENT    
 
-University of California, Davis, **Graduate Student Researcher** \hfill 2018- present 
+University of Fort Hare, Alice, **Graduate Student Researcher** \hfill 2017- present 
 
-Advisor: Dr. Christopher Barker \hfill Davis, California 
+Advisor: Prof. YongSong Qin \hfill Alice, South Africa 
 
-- As a **researcher**, I am working on improving the measurement of vector control efficacy and the application of vector control interventions. I am currently modeling how the efficacy of ultra-low volume indoor insecticide spraying varies over space and time, to determine if this intervention has an effect on the vector density in neighboring areas and, if so, the duration of this effect.
-
-
-University of California, Davis, **Data Systems Analyst** \hfill 2017- 2018  
-
-Employer: Dr. Amy Morrison \hfill Iquitos, Peru 
-
-- I was a **data manager and analyst** for both a clinical vector control trial (“Spatial Repellents for Arbovirus Control”), a UC Davis-University of Notre Dame collaboration, and an NIH funded P01 grant (“Quantifying Heterogeneities in Dengue Transmission Dynamics”) led by Dr. Thomas Scott, based in Iquitos, Peru. 
-I developed a mobile data collection application custom-made for this purpose and setting using CommCare, an application-building software, and was heavily involved in training and troubleshooting with our field teams to ensure the successful deployment of the app. I also maintained and improved a database of 15,000 human participants and over 100,000 mosquito samples using MySQL, PostreSQL, QGIS and R, and produced project reports that optimized the implementation of the field activities. 
-
-Louisiana State University, **Graduate Student Researcher** \hfill 2014-2017  
-
-Advisor: Dr. Rebecca Christofferson  \hfill Baton Rouge, Louisiana 
-
-- As a **researcher** I characterized the antibody response to Zika virus (ZIKV) and Dengue virus (DENV) in mice by:  
--evaluating  the effect of re-exposure to ZIKV on the neutralization and DENV-enhancement ability of ZIKV antibodies in C56BL/6 mice.   
--characterizing the disease, viremia, pathology and antibody response caused by ZIKV in IRF3/7 DKO mice  
-- I also evaluated the vector competence of local *Aedes aegypti* and *Aedes albopictus* mosquitoes to ZIKV and Chikungunya virus (CHIKV), developed and maintained laboratory colonies of field-caught *Aedes aegypti* and *Aedes albopictus*, and became adept at working in Biosafety Level 3 (BSL-3) environments, where most of my experiments took place. 
+- As a **researcher**, I am working on improving the measurement that examines the use of a relatively novel methodology in joint modelling of Longitudinal mixed models and Survival models with weighted function apply to biomedical and clinical trial data. In my research, I developed an integrated weighted function for likelihood estimate using a Bayesian approach and statistical inference analysis for this methodology in which both strength and computational intensity of previous approach is relaxed, and requirements are explicitly satisfied. This was delivered in a computer-based program using WinBugs and R packages that is freely available. I am excited to share and continue to explore this methodology and collaborate to expand its potential. I am currently modeling spatial-temporal analysis of tuberculosis and COVID-19 varies over space and time, to determine if the intervention has an effect on the vector density in neighboring areas and, if so, the duration of this effect.  
 
 
-Complutense University of Madrid, **Undergraduate Student Researcher** \hfill 2012-2014  
+University of Fort Hare, Alice, **Lecturer Assistant/Data Analyst** \hfill 2014- 2019  
 
-Advisor: Gustavo Domínguez Bernal  \hfill Madrid, Spain 
+Employer: Department of Statistics, University of Fort Hare \hfill Alice, South Africa 
 
-- As an **undergraduate student researcher** I participated in the developement of a vaccine against canine Leishmaniasis using an attenuated Salmonella strain as the infection vehicle of a plasmid containing Leishmania antigens into dendritic and macrophage cells. 
+- I was a **Lecturer assistant** assisting lecturers and tutoring undergraduate students based on the core subjects offered by Statistics departments, providing academic support and development to undergraduate students that offer statistics as a course in all the faculties and assisting lecturers in the department to conduct lectures in the case of lecturer unavailability or missed classes. I was helping the weak students with extra classes for them to be able to cope and go at the same pace as other students and assisting students in choosing courses to offer according to departmental criteria and counselling them towards acquiring academic excellence.
 
 ***   
 
 ## TEACHING EXPERIENCE
 
-**Teaching Assistant:** Quantitative Epidemiology II (EPIDEM 203 ) \hfill Winter 2020
-
+**Teaching Assistant:** Statistics and Statistical methods I (STA 111 ) \hfill First Semester  2014-2019
+**Teaching Assistant:** Statistics and Statistical methods II (STA 112 ) \hfill Second Semester  2014-2019
+**Teaching Assistant:** Statistics for Business Management I (STA 121 ) \hfill First Semester  2014-2017
+**Teaching Assistant:** Statistics for Business Management II (STA 122 ) \hfill Second Semester  2014-2017
 ***   
 
-## CLINICAL EXPERIENCE
+## DATABASE & STATISTICAL EXPERIENCE
+ 
+Oracle Certification Program - IZ0-052 Oracle Database 11g: **Administration I** \hfill 2012-2013
+Registration: 246439582. Oracle testing ID: OC1001027
 
-Small Animal Clinic Centro Veterinario Villalba IF, **Externship** \hfill 2012-2013    
-Experience in basic diagnostic procedures, anesthesiology and surgery \hfill Madrid, Spain  
+Oracle Certification Program - IZ0-052 Oracle Database 11g: **SQL Fundamental** \hfill 2011-2012
+Registration: 243486748. Oracle testing ID: OC1001027
 
-Ruminant Clinic of the Complutense Animal Hospital, **Internship**  \hfill 2011-2012    
-Experience in basic diagnostic procedures and anesthesiology \hfill Madrid, Spain  
+Bioinformatics training course @ HABioNet centre, **Internship** \hfill 2016
+\hfill University of Cape Town, South Africa
 
 
 *** 
 
 ## GRANTS & AWARDS
 
-Graduate Student Support Program, School of Veterinary Medicine  \hfill 2020–2021    
+Supervisor-Linked Bursary, Govan Mbeki Research and Development Centre  \hfill 2017–2019    
 
-- 21,000$ \hfill U.C. Davis  
+- 15,000$ \hfill University of Fort Hare, South Africa  
 
-Pacific Southwest Center of Excellence in Vector-borne Diseases fellowship  \hfill 2019-2020  
+International Society for Clinical Biostatistics (ISCB40) Travel Award \hfill 2019
 
-- 30,000$ \hfill U.C. Davis
+- 1000$ \hfill University of Leuven, Belgium                  
 
-Graduate Student Support Program, School of Veterinary Medicine  \hfill 2018–2019    
+NBGN Travel Award \hfill 2019   
 
-- 21,000$ \hfill U.C. Davis  
-
-Hannelore-Storz Travel Award \hfill 2016   
-
-- 500$ \hfill Lousiana State University                  
-
-
-Prize for Best Scientific Communication  \hfill 2012     
-
-- 11th Congress of Veterinary and Biomedical Sciences \hfill Universidad Complutense de Madrid  
-
-Erasmus Scholarship \hfill 2010-2011   
-
-- One year study abroad program \hfill Justus-Liebig Universität, Giessen, Germany.              
+- 500$ \hfill NBGN group                            
 
 *** 
 
-## PUBLICATIONS  
+## SELECTED PUBLICATIONS  
 
-**Kawiecki, AB** and Christofferson, R. C. "Zika-induced antibody response enhances dengue serotype 2 replication in vitro." *Journal of Infectious Diseases* 2016
+**Azeez Adeboye**, Ruffin Mutambayi, James Ndege, Yongsong Qin (2020), Joint Modelling of Longitudinal-Time to Event with Categorical Variable indicators of Latent Classes: Application to Tuberculosis Data, Journal of Mathematics and Statistics, 16(1), 106-119
+ 
+**Azeez Adeboye**, R. Mutambayi, J. Ndege, A. Odeyemi (2019), Survival Model Analysis of Tuberculosis Treatment among Patients with Human Immunodeficiency Virus Co-infection, International journal of Mycobacteriology, 8 (2), 244-251
 
-**Kawiecki, AB**, Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.  “Tissue tropisms, infection kinetics, histologic lesions, and antibody response of the MR766 strain of Zika virus in a murine model”. *Virology Journal* 2017.
+**Azeez Adeboye**, J Ndege, R Mutambayi (2018), Associated Factors with Unsuccessful Tuberculosis Treatment Outcomes among Tuberculosis/HIV Co-Infected Patients with Drug Resistant Tuberculosis. International Journal of Mycobacteriology 7 (4), 347-354
 
-Elson WH, Reiner RC, Siles C, Bazan I, Vilcarromero S, Riley-Powell AR, **Kawiecki AB**, et al. “Heterogeneity of Dengue Illness in Community-Based Prospective Study, Iquitos, Peru”. *Emerging Infectious Diseases* 2020
+SH Mohammed, MM Ahmed, AM Al-Mousawi, **Azeez Adeboye** (2018), Seasonal behavior and forecasting trends of tuberculosis incidence in Holy Kerbala, Iraq, International journal of Mycobacteriology 7 (4), 361
+
+**A. Azeez**, N James, M Ruffin, Q Yongsong (2018), A mathematical model for TB/HIV co- infection treatment and transmission mechanism, Asian Journal of Mathematics and Computer Research 22 (4), 180-192
+
+**A. Azeez**, D Obaromi, A Odeyemi, J Ndege, R Mutambayi (2016), Seasonality and trend forecasting of tuberculosis prevalence data in Eastern Cape, South Africa, using a hybrid model. International journal of environmental research and public health 13 (8), 757.
+
+**A. Azeez**, Q Yongsong, N James (2016), Risky sexual behavior and knowledge of HIV/AIDS among high school students in Eastern Cape South Africa Journal of Human Ecology, 53 (3), 194-204
+
+**A. Azeez**, Q Yongsong, O Akinwumi, N James (2016), Knowledge, Attitude and Practices of HIV/AIDS among High School Students in Eastern Cape, South Africa. Journal of Human Ecology 54 (2), 78-86
 
 ***  
 
 ## PRESENTATIONS
 
-**Kawiecki, A. B.**, Morrison A. C., Barker C. M., “Spatial analysis on the impact of Ultra-low Volume indoor insecticide spraying on Aedes aegypti household density” (Poster). GeoVet, Davis, California, USA, 2019
+**Adeboye Azeez**, Y Qin, J. Ndege, A., R. Mutambayi, "Bayesian Inference of Joint Multiple Longitudinal Outcomes Analysis of Hypertension Data" (Oral presentation)
+40th International Society for Clinical Biostatistics (ISCB40) conference, Leuven, Belgium, 14-19 July, 2019 at the University of Leuven, Belgium. Oral presentation.
 
-**Kawiecki A. B.**, Elson W.H.D., Donnelly M., Schwarz J., Simpson J. K., Barker C. M., Scott T. W., Achee N.L., Morrison A. C. “Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru”. (Poster). 
-American Society of tropical Medicine and Hygiene 67th Annual Meeting, New Orleans, Louisiana, USA, 2018
+**Adeboye Azeez**, Y Qin, J. Ndege, A., R. Mutambayi, "Joint Multiple Longitudinal Outcomes Analysis of Hypertension Data" (Oral presentation)
+First Nigeria Bioinformatics Conference, Nigerian Institute of Medical Research, Yaba, Lagos.Theme: Bioinformatics in the era of genomics in Africa24-26 June 2019.
 
-**Kawiecki, A. B.** and Christofferson, R. C.. "Boosting alters the cross-neutralizing capacity of antibody-response following Zika exposure in C57Bl/6 mice." (Oral). 
-American Society of tropical Medicine and Hygiene 65th Annual Meeting, Atlanta, Georgia, USA, 2016
+**Adeboye Azeez**, Y Qin, J. Ndege, A., R. Mutambayi, "A Joint model of Longitudinal and Survival data with Covariates measured with Error" (Oral presentation)
+61 Annual Conference of the South Africa Statistical Association, Nelson Mandela University, Port Elizabeth, South Africa, 27-29 November, 2019.
 
-**Kawiecki, A. B.** and Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.
- "Characterization of a murine model of Zika virus infection: histologic lesions and evidence of a role for epididymal epithelial cells in sexual transmission" (Poster). 
-Phi Zeta Emphasis Day, Baton Rouge, Louisiana, USA, 2016
+**Adeboye Azeez**, Y Qin, J. Ndege, A., R. Mutambayi, "Joint modeling of recurrent events and survival outcomes using a Bayesian non-parametric Dirichlet Process Mixture priors approach" (Oral presentation)
+60th Annual Conference of the South African Statistical Association (SASA) Conference, 26-29 November, 2018 at the University of South Africa, Science campus, Florida, Roodepoort, Johannesburg, South Africa. Oral presentation.
 
-**Kawiecki, A.B.** "Vector competence for Arboviruses of Louisiana strains of Aedes mosquito species" (Oral). 
-57th Annual Meeting of the Louisiana Mosquito Control Association, Lake Charles, Louisiana, USA, 2015
+**Adeboye Azeez**, Y Qin, J. Ndege, A., R. Mutambayi, "A joint Modelling for Longitudinal and Time-To-Event outcomes" 
+59th Annual Conference of the South African Statistical Association (SASA) Conference, 31 October – 4 November 2017 at the University of Free State, Ilanga, Bloemfontein, Free State, South Africa. Oral presentation.
 
-**Kawiecki, A.**  “Organochlorine Insecticides: Identification, Evaluation and Assesment of Risks” (Oral) [Spanish]. 
-12th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2013
+**Adeboye Azeez**, Y Qin, J. Ndege, A. Odeyemi, R. Mutambayi, "Prognostic Significance of BI-Therapeutic Treatment of Antiretroviral and Anti-tuberculosis Therapy in HIV/TB co-infected Patients in South Africa"
+The 21st International AIDS conference (AIDS 2016) organised by International AIDS society (IAS), At International Conference Centre, Durban, South Africa from 17th to 22nd June 2016. Poster presentation.
 
-**Kawiecki, A.** “Food chain: alternatives from food sovereignty” (Oral) [Spanish].
-12th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2013
-
-**Kawiecki, A.** "Tendon retraction in young calves," (Oral) [Spanish].
-11th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2012 Awarded a Prize for Best Scientific Communication.
-
-**Kawiecki, A.** "Healing properties of honey," (Oral) [Spanish].
-11th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2012
-
+**Adeboye Azeez**, J. Ndege, A. Odeyemi, R. Mutambayi, D. Obaromi, "A Mathematical model for transmission mechanism of TB/HIV co-infection" (Oral)
+58th Annual Conference of the South African Statistical Association from 28th November to 1st December 2016. University of Cape Town, South African. Oral presentation. 
 
 ***  
-
-## OUTREACH
-
-[Girls in Outdoor Adventure in Leadership and Science (GOALS) Mentor](https://girlsoutdoorscience.com) \hfill 2018-2019  
-
-- GOALS is a student-led organization at U.C. Davis that promotes field-based science and leadership skills in femme-identifying high school students through a free, immersive two-week backpacking trip to the Sequoia and King’s Canyon National Park. In addition to this trip, GOALS provides the participants with a one-on-one year-long mentoring program that participated in. This program is meant to work on the skills learned on the trip and help the participants with college applications and questions related to future careers in STEM. 
-
-[Davis Night Market](https://weinborn.wixsite.com/thedavisnightmarket) \hfill 2019- present
-
-- The Davis Night Market is a non-profit organization with the goal of reducing food insecurity, food waste, building community, and sustainability. It operates by recovering left-over food from local businesses in the city of Davis and distributing them freely at the central park. I am heavily involved in the organization, food recovery and outreach activities of this organization.
-
-***  
-
-## LANGUAGES
-
--Spanish (fluent)  
--English (fluent)  
--Polish (fluent)  
--German (intermediate -B2)  
+ 
 
 
 
