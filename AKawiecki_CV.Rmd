@@ -1,0 +1,195 @@
+---
+title: "Anna Kawiecki CV"
+author: "Anna B. Kawiecki"
+email: akawiecki@ucdavis.edu
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+fontfamily: mathpazo
+#fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github: akawiecki
+jobtitle: PhD Epidemiology (expected 2022), UC Davis
+linkcolor: blue
+orcid: null
+fontawesome: yes
+phone: "+1 (530) 760-7123"
+address: 
+#updated: no
+urlcolor: blue
+---
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+
+devtools::install_github("rstudio/fontawesome")
+library(fontawesome)
+```
+
+##### SUMMARY OF PROFESSIONAL EXPERIENCE
+I am a veterinarian training as a research epidemiologist with a focus on vector-borne diseases with a background that encompasses clinical, molecular and quantitative experience. I have extensive experience in conducting field work and managing data in large field-based research operations, performing molecular diagnostic work with arboviruses in both BSL-2 and BSL-3 conditions and with mosquito colony maintenance. Currently I am investigating arbovirus transmission dynamics by building statistical, mathematical and spatio-temporal models.
+
+***  
+
+## EDUCATION
+
+University of California, Davis, **Ph.D. Epidemiology**  \hfill expected 2022
+
+ \hfill Davis, California
+
+Louisiana State University, **M.Sc. Master in Veterinary and Biomedical  Sciences** \hfill 2017 
+
+\hfill Baton Rouge, Louisiana  
+
+Universidad Complutense de Madrid, **D.V.M** \hfill 2013 
+
+\hfill Madrid, Spain 
+
+ ***    
+
+## EMPLOYMENT    
+
+University of California, Davis, **Graduate Student Researcher** \hfill 2018- present 
+
+Advisor: Dr. Christopher Barker \hfill Davis, California 
+
+- As a **researcher**, I am working on improving the measurement of vector control efficacy and the application of vector control interventions. I am currently modeling how the efficacy of ultra-low volume indoor insecticide spraying varies over space and time, to determine if this intervention has an effect on the vector density in neighboring areas and, if so, the duration of this effect.
+
+
+University of California, Davis, **Data Systems Analyst** \hfill 2017- 2018  
+
+Employer: Dr. Amy Morrison \hfill Iquitos, Peru 
+
+- I was a **data manager and analyst** for both a clinical vector control trial (“Spatial Repellents for Arbovirus Control”), a UC Davis-University of Notre Dame collaboration, and an NIH funded P01 grant (“Quantifying Heterogeneities in Dengue Transmission Dynamics”) led by Dr. Thomas Scott, based in Iquitos, Peru. 
+I developed a mobile data collection application custom-made for this purpose and setting using CommCare, an application-building software, and was heavily involved in training and troubleshooting with our field teams to ensure the successful deployment of the app. I also maintained and improved a database of 15,000 human participants and over 100,000 mosquito samples using MySQL, PostreSQL, QGIS and R, and produced project reports that optimized the implementation of the field activities. 
+
+Louisiana State University, **Graduate Student Researcher** \hfill 2014-2017  
+
+Advisor: Dr. Rebecca Christofferson  \hfill Baton Rouge, Louisiana 
+
+- As a **researcher** I characterized the antibody response to Zika virus (ZIKV) and Dengue virus (DENV) in mice by:  
+-evaluating  the effect of re-exposure to ZIKV on the neutralization and DENV-enhancement ability of ZIKV antibodies in C56BL/6 mice.   
+-characterizing the disease, viremia, pathology and antibody response caused by ZIKV in IRF3/7 DKO mice  
+- I also evaluated the vector competence of local *Aedes aegypti* and *Aedes albopictus* mosquitoes to ZIKV and Chikungunya virus (CHIKV), developed and maintained laboratory colonies of field-caught *Aedes aegypti* and *Aedes albopictus*, and became adept at working in Biosafety Level 3 (BSL-3) environments, where most of my experiments took place. 
+
+
+Complutense University of Madrid, **Undergraduate Student Researcher** \hfill 2012-2014  
+
+Advisor: Gustavo Domínguez Bernal  \hfill Madrid, Spain 
+
+- As an **undergraduate student researcher** I participated in the developement of a vaccine against canine Leishmaniasis using an attenuated Salmonella strain as the infection vehicle of a plasmid containing Leishmania antigens into dendritic and macrophage cells. 
+
+***   
+
+## TEACHING EXPERIENCE
+
+**Teaching Assistant:** Quantitative Epidemiology II (EPIDEM 203 ) \hfill Winter 2020
+
+***   
+
+## CLINICAL EXPERIENCE
+
+Small Animal Clinic Centro Veterinario Villalba IF, **Externship** \hfill 2012-2013    
+Experience in basic diagnostic procedures, anesthesiology and surgery \hfill Madrid, Spain  
+
+Ruminant Clinic of the Complutense Animal Hospital, **Internship**  \hfill 2011-2012    
+Experience in basic diagnostic procedures and anesthesiology \hfill Madrid, Spain  
+
+
+*** 
+
+## GRANTS & AWARDS
+
+Graduate Student Support Program, School of Veterinary Medicine  \hfill 2020–2021    
+
+- 21,000$ \hfill U.C. Davis  
+
+Pacific Southwest Center of Excellence in Vector-borne Diseases fellowship  \hfill 2019-2020  
+
+- 30,000$ \hfill U.C. Davis
+
+Graduate Student Support Program, School of Veterinary Medicine  \hfill 2018–2019    
+
+- 21,000$ \hfill U.C. Davis  
+
+Hannelore-Storz Travel Award \hfill 2016   
+
+- 500$ \hfill Lousiana State University                  
+
+
+Prize for Best Scientific Communication  \hfill 2012     
+
+- 11th Congress of Veterinary and Biomedical Sciences \hfill Universidad Complutense de Madrid  
+
+Erasmus Scholarship \hfill 2010-2011   
+
+- One year study abroad program \hfill Justus-Liebig Universität, Giessen, Germany.              
+
+*** 
+
+## PUBLICATIONS  
+
+**Kawiecki, AB** and Christofferson, R. C. "Zika-induced antibody response enhances dengue serotype 2 replication in vitro." *Journal of Infectious Diseases* 2016
+
+**Kawiecki, AB**, Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.  “Tissue tropisms, infection kinetics, histologic lesions, and antibody response of the MR766 strain of Zika virus in a murine model”. *Virology Journal* 2017.
+
+Elson WH, Reiner RC, Siles C, Bazan I, Vilcarromero S, Riley-Powell AR, **Kawiecki AB**, et al. “Heterogeneity of Dengue Illness in Community-Based Prospective Study, Iquitos, Peru”. *Emerging Infectious Diseases* 2020
+
+***  
+
+## PRESENTATIONS
+
+**Kawiecki, A. B.**, Morrison A. C., Barker C. M., “Spatial analysis on the impact of Ultra-low Volume indoor insecticide spraying on Aedes aegypti household density” (Poster). GeoVet, Davis, California, USA, 2019
+
+**Kawiecki A. B.**, Elson W.H.D., Donnelly M., Schwarz J., Simpson J. K., Barker C. M., Scott T. W., Achee N.L., Morrison A. C. “Use of mobile data collection tools to improve implementation of epidemiological trials in Iquitos, Peru”. (Poster). 
+American Society of tropical Medicine and Hygiene 67th Annual Meeting, New Orleans, Louisiana, USA, 2018
+
+**Kawiecki, A. B.** and Christofferson, R. C.. "Boosting alters the cross-neutralizing capacity of antibody-response following Zika exposure in C57Bl/6 mice." (Oral). 
+American Society of tropical Medicine and Hygiene 65th Annual Meeting, Atlanta, Georgia, USA, 2016
+
+**Kawiecki, A. B.** and Mayton EH, Dutuze MF, Goupil BA, Langohr IM, Del Piero F and Christofferson, R. C.
+ "Characterization of a murine model of Zika virus infection: histologic lesions and evidence of a role for epididymal epithelial cells in sexual transmission" (Poster). 
+Phi Zeta Emphasis Day, Baton Rouge, Louisiana, USA, 2016
+
+**Kawiecki, A.B.** "Vector competence for Arboviruses of Louisiana strains of Aedes mosquito species" (Oral). 
+57th Annual Meeting of the Louisiana Mosquito Control Association, Lake Charles, Louisiana, USA, 2015
+
+**Kawiecki, A.**  “Organochlorine Insecticides: Identification, Evaluation and Assesment of Risks” (Oral) [Spanish]. 
+12th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2013
+
+**Kawiecki, A.** “Food chain: alternatives from food sovereignty” (Oral) [Spanish].
+12th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2013
+
+**Kawiecki, A.** "Tendon retraction in young calves," (Oral) [Spanish].
+11th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2012 Awarded a Prize for Best Scientific Communication.
+
+**Kawiecki, A.** "Healing properties of honey," (Oral) [Spanish].
+11th Congress of Veterinary and Biomedical Sciences, Complutense University, Madrid, Spain, 2012
+
+
+***  
+
+## OUTREACH
+
+[Girls in Outdoor Adventure in Leadership and Science (GOALS) Mentor](https://girlsoutdoorscience.com) \hfill 2018-2019  
+
+- GOALS is a student-led organization at U.C. Davis that promotes field-based science and leadership skills in femme-identifying high school students through a free, immersive two-week backpacking trip to the Sequoia and King’s Canyon National Park. In addition to this trip, GOALS provides the participants with a one-on-one year-long mentoring program that participated in. This program is meant to work on the skills learned on the trip and help the participants with college applications and questions related to future careers in STEM. 
+
+[Davis Night Market](https://weinborn.wixsite.com/thedavisnightmarket) \hfill 2019- present
+
+- The Davis Night Market is a non-profit organization with the goal of reducing food insecurity, food waste, building community, and sustainability. It operates by recovering left-over food from local businesses in the city of Davis and distributing them freely at the central park. I am heavily involved in the organization, food recovery and outreach activities of this organization.
+
+***  
+
+## LANGUAGES
+
+-Spanish (fluent)  
+-English (fluent)  
+-Polish (fluent)  
+-German (intermediate -B2)  
+
+
+
+

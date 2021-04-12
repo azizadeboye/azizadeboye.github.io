@@ -1,0 +1,20 @@
+---
+title: "About me"
+---
+
+<div><img class="avatar" src="photos/lab_photo_double_crop.png" alt="Avatar" width="250" height="250">
+
+```{css, echo= FALSE}
+.avatar{
+  border-radius: 50%;
+  float: left;
+}
+```
+ <div class="main-text"><h4>PhD student in Epidemiology</h4>
+  <h4><a href="https://barkerlab.ucdavis.edu/">Barker Lab</a></h4>
+  <h4>Univeristy of California, Davis</h4>
+<h4>I am a veterinarian training as a research epidemiologist with a focus on vector-borne diseases. Currently I am investigating arbovirus transmission dynamics in the dengue-endemic city of Iquitos, Peru by building statistical, mathematical and spatio-temporal models.<h4><div>
+ 
+  <div class="main-photo"><img src="photos/iqt_flotando.jpeg"></div>
+
+<div class="bottom-photo"><img src="photos/ucd_logo.png" style="width:200px;"><img src="photos/pacvec_logo.png" style="width:250px;"><img src="photos/dart_logo.png" style="width:200px;"></div>
