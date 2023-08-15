@@ -15,6 +15,14 @@ navbar:
     href: Azeez_CV.html
   - text: Projects
     href: projects.html
+  - text: Teaching
+  menu:
+    - text: Multivariate Statistical Analysis - STM 502
+      href: STM 502
+    - text: Random Effects Modelling - STS 505
+      href: STS 505
+    - text: Advance Multivariate Statistical Analysis - STS 504
+      href: STS 504
   - text: Get in Touch
     menu:
     - icon: fa-twitter
