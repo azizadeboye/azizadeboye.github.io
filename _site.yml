@@ -11,19 +11,16 @@ navbar:
   left:
   - text: About
     href: index.html
-  - text: Portfolio
+  - text: CV
     href: Azeez_CV.html
-  - text: Blogs
+  - text: Projects
     href: projects.html
   - text: Talks
     href: talks.html
-  menu:
-    - text: Multivariate Statistical Analysis - STM 502
-      href: STM 502
-    - text: Random Effects Modelling - STS 505
-      href: STS 505
-    - text: Advance Multivariate Statistical Analysis - STS 504
-      href: STS 504
+  - text: Blogs
+    href: blogs.html
+  - text: Links
+    href: links.html
   - text: Get in Touch
     menu:
     - icon: fa-twitter
