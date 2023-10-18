@@ -11,11 +11,12 @@ navbar:
   left:
   - text: About
     href: index.html
-  - text: CV
+  - text: Portfolio
     href: Azeez_CV.html
-  - text: Projects
+  - text: Blogs
     href: projects.html
-  - text: Teaching
+  - text: Talks
+    href: talks.html
   menu:
     - text: Multivariate Statistical Analysis - STM 502
       href: STM 502
