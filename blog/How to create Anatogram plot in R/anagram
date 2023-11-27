@@ -1,0 +1,47 @@
+#How to create Anatogram plot in R
+
+install.packages("remotes")
+remotes::install_github("jespermaag/gganatogram")
+library(gganatogram)
+
+#male
+gganatogram(data = hgMale_key,
+            organism = "human", sex = "male",
+            fill = "colour", fillOutline = "#a6bddb") +
+  theme_void() +
+  coord_fixed()
+
+#female
+gganatogram(data = hgFemale_key,
+            organism = "human", sex = "female",
+            fill = "colour", fillOutline = "#a6bddb") +
+  theme_void() +
+  coord_fixed()
+
+#zoom male
+gganatogram(data = hgMale_key,
+            organism = "human", sex = "male",
+            fill = "colour", fillOutline = "#a6bddb") +
+  coord_cartesian(xlim = c(30, 75), ylim = c(-40, 0)) +
+  theme_void()
+
+#male skeleton
+library(dplyr)
+hgMale_key %>%
+  filter(type %in% "nervous_system") %>%
+  gganatogram(organism = "human", sex = "male",
+              fill = "colour", outline = FALSE) +
+  theme_void() +
+  coord_fixed()
+
+#male with heart
+library(dplyr)
+hgMale_key %>%
+  filter(organ %in% c("brain", "heart")) %>%
+  gganatogram(organism = "human", sex = "male",
+              fill = "colour") +
+  theme_void() +
+  coord_fixed()
+
+# male with colour scale
+

@@ -15,6 +15,12 @@ navbar:
     href: Azeez_CV.html
   - text: Projects
     href: projects.html
+  - text: Talks
+    href: talks.html
+  - text: Blogs
+    href: blogs.html
+  - text: Links
+    href: links.html
   - text: Get in Touch
     menu:
     - icon: fa-twitter
