@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Azeez Adeboye" />
+
+
+<title>Azeez CV</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Azeez Adeboye</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">About</a>
+</li>
+<li>
+  <a href="Azeez_CV.html">CV</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Get in Touch
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://twitter.com/azizadeboye">
+        <span class="fa fa-twitter"></span>
+         
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/azizadeboye">
+        <span class="fa fa-github"></span>
+         
+      </a>
+    </li>
+    <li>
+      <a href="mailto:azizadeboye@gmail.com">
+        <span class="fa fa-envelope"></span>
+         
+      </a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Azeez CV</h1>
+<h4 class="author">Azeez Adeboye</h4>
+
+</div>
+
+
+<div id="summary-of-professional-experience" class="section level5">
+<h5>BIO-DATA</h5>
+<p>Azeez Adeboye is a Lecturer at the department of Statistics, University of Fort Hare, Alice, 5700, Eastern Cape, South Africa. He received his PhD (Biostatistics) at the University of Fort Hare on joint modelling of Longitudinal mixed models and survival models with weighted function apply to biomedical and clinical trial data. He has gained expertise in various statistical topics with research interests, including Bayesian approaches, Longitudinal analysis, statistical modelling, survival analysis, and mixed/random-effects models. His research as led to several papers published in high quality international and national journals. During his study, Dr Azeez gained clinical trials and medical studies experiences as well as bioinformatics training at the University of Cape Town, South Africa. Dr Azeez is an experienced R user with many functions derived and currently working on an R package development. Besides, he has an excellent working knowledge of the following software: SAS, JAGS, STAN, STATA, Julia, Python, and SPSS e.t.c.</p>
+<hr />
+</div>
+<div id="education" class="section level2">
+<h2>EDUCATION</h2>
+<p>University of Fort Hare, Alice, <strong>Ph.D. Biostatistics</strong> 2020</p>
+<p>Alice, South Africa</p>
+<p>University of Fort Hare, Alice, <strong>M.Sc. Master in Biostatistics & Epidemiology</strong> 2017</p>
+<p>Alice, South Africa</p>
+<p>University of Fort Hare, Alice, <strong>B.Sc (Honours) in Applied Statistics</strong> 2015</p>
+<p>Alice, South Africa</p>
+
+<hr />
+</div>
+<div id="employment" class="section level2">
+<h2>EMPLOYMENT</h2>
+<p><li><strong>Lecturer</strong> 2022- present</p>
+<p>Department of Statistics, University of Fort Hare, Alice, 5700, South Africa<p>
+<ul>
+</ul>
+<p><li><strong>Tutor/Data Analyst</strong> 2014- 2019</p>
+<p>Department of Statistics, University of Fort Hare, Alice, 5700, South Africa<p>
+<ul>
+<li><strong>Data Analyst</strong></li>
+</ul>
+<hr />
+</div>
+<div id="teaching-experience" class="section level2">
+<h2>TEACHING EXPERIENCE</h2>
+<p><li><strong>Postgraduate Courses</strong></p>
+<p><strong>STM 502:</strong> Multivariate Statistical Analysis</p>
+<p><strong>STS 504:</strong> Advance Multivariate Statistical Analysis</p>
+<p><strong>STM 505 </strong> Fixed Effects Modelling</p>
+<p><strong>STS 505:</strong> Random Effects Modelling</p>
+<p><li><strong>Undergraduate Courses</strong></p>
+<p><strong>STM 221:</strong> Introduction to Mathematical Statistics I</p>
+<p><strong>STM 222:</strong> Introduction to Mathematical Statistics II</p>
+<hr />
+</div>
+<div id="List of Students and titles of M.S. theses/Ph.D. dissertations" class="section level2">
+<h2>STUDENT SUPERVISION</h2>
+<P><strong>List of Students and titles of BSc (Hons)/M.S./Ph.D. theses/dissertations</strong></p>
+<p><li>PITSHA PHELO, BSc(Hons) in Applied Statistics, (UFH), November 2022: Modelling the covid-19 effects on the mental health of university students using an additive binomial regression model.</p>
+<hr />
+</div>
+<div id="database-statistical-experience" class="section level2">
+<h2>DATABASE &amp; STATISTICAL EXPERIENCE</h2>
+<p>Oracle Certification Program - IZ0-052 Oracle Database 11g: <strong>Administration I</strong> 2012-2013<br />
+Registration: 246439582. Oracle testing ID: OC1001027</p>
+<p>Oracle Certification Program - IZ0-052 Oracle Database 11g: <strong>SQL Fundamental</strong> 2011-2012<br />
+Registration: 243486748. Oracle testing ID: OC1001027</p>
+<p>Bioinformatics training course @ HABioNet centre, <strong>Internship</strong> 2016<br />
+University of Cape Town, South Africa</p>
+<hr />
+</div>
+<div id="grants-awards" class="section level2">
+<h2>GRANTS &amp; AWARDS</h2>
+<p>Supervisor-Linked Bursary, Govan Mbeki Research and Development Centre 2017–2019</p>
+<ul>
+<li>15,000$ University of Fort Hare, South Africa</li>
+</ul>
+<p>International Society for Clinical Biostatistics (ISCB40) Travel Award 2019</p>
+<ul>
+<li>1000$ University of Leuven, Belgium</li>
+</ul>
+<p>NBGN Travel Award Travel Award 2019</p>
+<ul>
+<li>500$ NBGN group</li>
+</ul>
+<hr />
+</div>
+<div id="selected-publications" class="section level2">
+<h2>SELECTED PUBLICATIONS</h2>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. "Joint Modelling of Longitudinal-Time to Event with Categorical Variable indicators of Latent Classes: Application to Tuberculosis Data," <em>Journal of Mathematics and Statistics,</em> 2020</p>
+<p><strong>Azeez Adeboye,</strong> R. Mutambayi, J. Ndege, A. Odeyemi. "Survival Model Analysis of Tuberculosis Treatment among Patients with Human Immunodeficiency Virus Co-infection." <em>International journal of Mycobacteriology</em> 2019</p>
+<p><strong>Azeez Adeboye,</strong> J Ndege, R Mutambayi. "Associated Factors with Unsuccessful Tuberculosis Treatment Outcomes among Tuberculosis/HIV Co-Infected Patients with Drug Resistant Tuberculosis." <em>International Journal of Mycobacteriology</em> 2018</p>
+SH Mohammed, MM Ahmed, AM Al-Mousawi, <p><strong>Azeez Adeboye,</strong> "Seasonal behavior and forecasting trends of tuberculosis incidence in Holy Kerbala, Iraq." <em>International journal of Mycobacteriology</em> 2020</p>
+<p><strong>Azeez Adeboye,</strong> N James, M Ruffin, Q Yongsong. "A mathematical model for TB/HIV co- infection treatment and transmission mechanism." <em>Asian Journal of Mathematics and Computer Research</em> 2018</p>
+<p><strong>Azeez Adeboye,</strong> D Obaromi, A Odeyemi, J Ndege, R Mutambayi. "Seasonality and trend forecasting of tuberculosis prevalence data in Eastern Cape, South Africa, using a hybrid model." <em>International journal of environmental research and public health</em> 2016</p>
+<p><strong>Azeez Adeboye,</strong> Q Yongsong, N James. "Risky sexual behavior and knowledge of HIV/AIDS among high school students in Eastern Cape South Africa." <em>Journal of Human Ecology</em> 2016</p>
+<p><strong>Azeez Adeboye,</strong> Q Yongsong, O Akinwumi, N James. "Knowledge, Attitude and Practices of HIV/AIDS among High School Students in Eastern Cape, South Africa." <em>Journal of Human Ecology</em> 2016</p>
+
+<hr />
+</div>
+<div id="presentations" class="section level2">
+<h2>PRESENTATIONS</h2>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin., “Bayesian Inference of Joint Multiple Longitudinal Outcomes Analysis of Hypertension Data.” (Oral). 40th International Society for Clinical Biostatistics (ISCB40) conference, Leuven, Belgium, 14-19 July, 2019 at the University of Leuven, Belgium</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. “Joint Multiple Longitudinal Outcomes Analysis of Hypertension Data.” (Oral). First Nigeria Bioinformatics Conference, Nigerian Institute of Medical Research, Yaba, Lagos.Theme: Bioinformatics in the era of genomics in Africa, 24-26 June, 2019</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. “Joint model of Longitudinal and Survival data with Covariates measured with Error.” (Oral). 61st Annual Conference of the South Africa Statistical Association, Nelson Mandela University, Port Elizabeth, South Africa, 27-29 November, 2019</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. “Joint modeling of recurrent events and survival outcomes using a Bayesian non-parametric Dirichlet Process Mixture priors approach.” (Oral). 60th Annual Conference of the South African Statistical Association (SASA) Conference, 26-29 November, 2018 at the University of South Africa, Science campus, Florida, Roodepoort, Johannesburg, South Africa</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. “A joint Modelling for Longitudinal and Time-To-Event outcomes.” (Oral). 59th Annual Conference of the South African Statistical Association (SASA) Conference, 31 October – 4 November 2017 at the University of Free State, Ilanga, Bloemfontein, Free State, South Africa</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Yongsong Qin. “Prognostic Significance of BI-Therapeutic Treatment of Antiretroviral and Anti-tuberculosis Therapy in HIV/TB co-infected Patients in South Africa” (Poster). The 21st International AIDS conference (AIDS 2016) organised by International AIDS society (IAS), At International Conference Centre, Durban, South Africa from 17th to 22nd June 2016</p>
+<p><strong>Azeez Adeboye,</strong> Ruffin Mutambayi, James Ndege, Akinwumin. Odeyemi, Davies Obaromi. “A Mathematical model for transmission mechanism of TB/HIV co-infection.” (Oral). 58th Annual Conference of the South African Statistical Association from 28th November to 1st December 2016. University of Cape Town, South African</p>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
