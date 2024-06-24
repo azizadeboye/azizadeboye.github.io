@@ -1,0 +1,39 @@
+---
+title: "Links"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Research
+
+## Dengue virus 
+
+### UC Davis: modeling drivers of dengue risk
+
+I plan to focus my dissertation on the **drivers of human exposure to dengue infection**, that is largely defined by the contact between humans and infected *Aedes* vectors. *Aedes aegypti* feeding patterns and dengue virus infection are crucial elements in this process and may vary in time and space depending on ecological and behavioral factors; however, the association between these factors and increased dengue risk is poorly understood. In my proposed project, I will characterize the feeding patterns and dengue virus infection prevalence of field- caught *Aedes aegypti* in the endemic setting of Iquitos, Peru, where variation in these metrics can be associated with increased risk of dengue disease. My ultimate goal is to develop a dengue transmission model for the at-risk non-endemic area of Los Angeles, California, that will be informed by the characterization of *Aedes aegypti* feeding behavior in L.A. previously performed by senior members in my lab. In addition, it will further deepen the understanding of dengue transmission in endemic and non-endemic areas.
+
+### Iquitos, Peru: research in the field
+During my employment as data manager and analyst for U.C. Davis based at the dengue research site in Iquitos, Peru, I was heavily involved in the data collection of both a clinical vector control trial ([“Spatial Repellents for Arbovirus Control”](https://clinicaltrials.gov/ct2/show/NCT03553277)), a UC Davis-University of Notre Dame collaboration, and an NIH funded P01 grant ([“Quantifying Heterogeneities in Dengue Transmission Dynamics”](https://grantome.com/grant/NIH/P01-AI098670-01A1)) led by Dr. Thomas Scott. I had the opportunity to develop and deploy mobile data collection applications custom-made for this type of purpose and setting using CommCare, an application-building software, and am currently working on a manuscript describing the lessons learnt during this process together with our collaborators at the University of Notre Dame. In addition, I participate as author on [manuscripts produced by the P01 research team](https://wwwnc.cdc.gov/eid/article/26/9/19-1472_article) thanks to my roles in data collection and processing.
+
+## Zika virus 
+
+During my Masters at LSU, I was fortunate to have joined an arbovirology lab at the time of the Zika outbreak; by the time WHO had announced a public health emergency, I was deep into my research projects studying ZIKV. 
+
+The ZIKV outbreak took place in regions where dengue virus is endemic, and the precedent of previous DENV immunity enhancing disease severity after a secondary infection with a heterologous serotype, together with the close antigenic and phylogenetic relationship of ZIKV and DENV, raised questions in the scientific community about the effects that previous immunity against one of these viruses would have on the severity of the disease after infection with the other. Members of the *Flaviviridae* family induce antibodies that have varying degrees of cross-reactivity to other flaviviruses, demonstrated by their abilities to either bind, neutralize or enhance a heterologous infection, the latter of which is hypothesized to occur through antibody-dependent enhancement (ADE), whereby sub-neutralizing antibodies against the primary infecting virus aid the entry of a secondary infecting virus into antigen-presenting cells through the Fc-receptor.  
+
+### Zika virus-induced adaptive immune response:
+My main interest was to **characterize the adaptive immune response raised against ZIKV, the changes in this response after multiple re-exposures to the same virus, ZIKV, and how these changes could affect viral infection after exposure to a heterologous virus, DENV**. I answered this question in the C57Bl/6 mouse model by sequentially infecting mice with ZIKV, exploring the neutralization profile of the antibody population in the serum against ZIKV and DENV before and after the re-exposure using plaque reduction neutralization assays (PRNT), and finally performing enhancement assays to determine if the antibodies enhanced DENV infection in vitro. My results showed that re-exposure to ZIKV changed the profile of the antibody population, reducing DENV cross-neutralization to become sub-neutralizing and capable of enhancing DENV-2 infection in THP-1 cells. I published this work as first author in the [Journal of Infectious Diseases](https://academic.oup.com/jid/article/214/9/1357/2399247).
+ 
+### Zika virus disease characterization in a susceptible mouse model: 
+I **characterized the tissue tropism, disease, viremia, and protective immunity induced by infection of the African strain of ZIKV in a knock-out mouse model** lacking interferon regulatory factors 3 and 7. These knock-out mice can develop the disease whereas the wild-type cannot. I used this model to observe that ZIKV presented a strong tropism for male reproductive and ocular tissues in mice, as well as causing mild to severe pathology in these tissues. This finding could help explain lesions caused by ZIKV in adult males and fetuses. In addition, the severe pathology developed by the African strain of the virus in these mice buttresses the observation that severe disease during the ZIKV outbreak in the Americas was not caused by a mutation in the virus. I published this work as first author in the [Virology Journal](https://virologyj.biomedcentral.com/articles/10.1186/s12985-017-0749-x).
+
+
+# Data science 
+
+Learning Bayesian analysis with R-INLA: [code for the homework exercises from the 2nd edition of Statistical Rethinking by Richard McElreath using R-INLA](https://azizadeboye.github.io./statistical_rethinking_inla/)
+
+
+
+
